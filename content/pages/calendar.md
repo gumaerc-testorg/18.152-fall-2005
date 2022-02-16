@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 54016077-914e-f67c-fa98-e7dab83b1558
 ---
@@ -121,7 +123,7 @@ More on Harmonic Functions on a Ball
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Solving the Laplace Equation in R2: The Dirichlet Problem
+Solving the Laplace Equation in R{{< sup "2" >}}: The Dirichlet Problem
 {{< tdclose >}}
 
 {{< trclose >}}

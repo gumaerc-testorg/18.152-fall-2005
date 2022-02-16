@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information on the mean value inequality.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-152-introduction-to-partial-differential-equations-fall-2005/7c6eed5f95bdc063fb407474286a7d75_lecture21.pdf
+file: /media/courses/18-152-introduction-to-partial-differential-equations-fall-2005/7c6eed5f95bdc063fb407474286a7d75_lecture21.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture21.pdf
 uid: 7c6eed5f-95bd-c063-fb40-7474286a7d75

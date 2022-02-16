@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4d482928-9d2b-235f-6034-cc905080fc70
 ---
@@ -19,7 +22,7 @@ Write out the laplacian in planepolar coordinates.
 
 ### Problem 3
 
-A Green's function on ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg)n is a harmonic function on ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg)n \\{0} which depends only on the radius (for example log r on ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg)2). Find nontrivial Green's functions for all dimensions.
+A Green's function on ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg){{< sup "n" >}} is a harmonic function on ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg){{< sup "n" >}} \\{0} which depends only on the radius (for example log r on ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg){{< sup "2" >}}). Find nontrivial Green's functions for all dimensions.
 
 ### Problem 4
 
@@ -36,13 +39,13 @@ Assignment 2 as a ([PDF]({{< baseurl >}}/resources/pset2-1))
 
 ### Problem 1
 
-Let u be a function on the ball B1(0) ⊂ ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg)2 with ∫B1(0) |![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/eq2.jpg)u|p <\]infty for some constant p > 2. Show that u is holder continuous. \[Hint: Use Morrey on ∫ 1.|![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/eq2.jpg)u|2 \]
+Let u be a function on the ball B{{< sub "1" >}}(0) ⊂ ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg){{< sup "2" >}} with ∫{{< sub "B1(0)" >}} |![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/eq2.jpg)u|{{< sup "p" >}} \<\]infty for some constant p > 2. Show that u is holder continuous. \[Hint: Use Morrey on ∫ 1.|![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/eq2.jpg)u|{{< sup "2" >}} \]
 
 ### Problem 2
 
-Let u: ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg)n → ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg), and define OSCBr(x)u = supBr(x)u - infBr(x)u. Show that if there is some constant 0 < γ < 1 with
+Let u: ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg){{< sup "n" >}} → ![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/R1.jpg), and define OSC{{< sub "Br(x)" >}}u = sup{{< sub "Br(x)" >}}u - inf{{< sub "Br(x)" >}}u. Show that if there is some constant 0 \< γ \< 1 with
 
-oscBr(x)u ≤ γ oscB2r(x)u
+osc{{< sub "Br(x)" >}}u ≤ γ osc{{< sub "B2r(x)" >}}u
 
 for all x and all r then u is Holder continuous.
 
@@ -56,4 +59,4 @@ Let u be a function with Lu ≥ 0, and Φ: ![](/courses/mathematics/18-152-intro
 
 ### Problem 4
 
-Let L be an operator as in question 3, and let u be an L harmonic function. Prove that |![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/eq2.jpg)u|2 is holder contiuous. \[This is likely to be difficult.\]
+Let L be an operator as in question 3, and let u be an L harmonic function. Prove that |![](/courses/mathematics/18-152-introduction-to-partial-differential-equations-fall-2005/assignments/eq2.jpg)u|{{< sup "2" >}} is holder contiuous. \[This is likely to be difficult.\]

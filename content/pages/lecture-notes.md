@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 2a38a77e-a133-705c-7227-27043181253a
 ---
@@ -123,7 +126,7 @@ More on Harmonic Functions on a Ball ([PDF]({{< baseurl >}}/resources/lecture11)
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Solving the Laplace Equation in R2: The Dirichlet Problem ([PDF]({{< baseurl >}}/resources/lecture12))
+Solving the Laplace Equation in R{{< sup "2" >}}: The Dirichlet Problem ([PDF]({{< baseurl >}}/resources/lecture12))
 {{< tdclose >}}
 
 {{< trclose >}}
