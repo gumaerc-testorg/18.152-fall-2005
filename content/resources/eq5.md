@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4d482928-9d2b-235f-6034-cc905080fc70
 resourcetype: Image
 title: eq5.jpg
 uid: 7d52e2bb-a681-a862-26b9-142ab66dc490
