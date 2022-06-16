@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-152-introduction-to-partial-differential-equations-fall-2005/0a9296007140f21962eb3d63544ece47_prob_2b.jpg
+file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/0a9296007140f21962eb3d63544ece47_prob_2b.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -16,4 +16,6 @@ parent_uid: 4d482928-9d2b-235f-6034-cc905080fc70
 resourcetype: Image
 title: prob_2b.jpg
 uid: 0a929600-7140-f219-62eb-3d63544ece47
+video_metadata:
+  youtube_id: null
 ---
