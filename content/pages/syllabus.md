@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: The syllabus contains the prerequisite, course format and grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 466eba3b-961a-a6ac-d16b-57fd391a35f0
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -12,7 +17,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisite
 ------------
 
-Analysis I ([18.100C](/courses/18-100c-real-analysis-fall-2012/))
+Analysis I ([18.100C](/courses/18-100c-real-analysis-fall-2012))
 
 Course Description
 ------------------
