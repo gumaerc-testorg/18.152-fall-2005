@@ -6,6 +6,7 @@ file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource gives information on the hopf maximum principle for uniformly elliptic operators and proof of the harnack inequality.
-

@@ -6,6 +6,7 @@ file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource gives information on gradient estimate for a torus and a harnack inequality for a torus.
-

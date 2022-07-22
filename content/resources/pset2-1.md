@@ -5,6 +5,7 @@ file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 4 problems on harmonic functions.
-
