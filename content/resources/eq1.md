@@ -2,6 +2,7 @@
 content_type: resource
 description: Image of mathematical symbols.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/5484a2b59067ebdfb25bf6651a081787_eq1.jpg
+file_size: 2709
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 4 problems on harmonic functions.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/8ca7219f63360f47e7a36854492dd404_pset2.pdf
+file_size: 70500
 file_type: application/pdf
 learning_resource_types:
 - Assignments

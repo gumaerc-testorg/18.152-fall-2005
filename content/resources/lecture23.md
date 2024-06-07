@@ -2,6 +2,7 @@
 content_type: resource
 description: This resourse contains information on the mean value inequality.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/24142ad64df6e85e6f8a1e570239a9f0_lecture23.pdf
+file_size: 150682
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

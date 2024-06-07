@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/7d52e2bba681a86226b9142ab66dc490_eq5.jpg
+file_size: 997
 file_type: image/jpeg
 image_metadata:
   caption: ''

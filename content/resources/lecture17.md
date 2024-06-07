@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/6ef86c66fb470c33e3bb236e67390224_lecture17.pdf
+file_size: 142131
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

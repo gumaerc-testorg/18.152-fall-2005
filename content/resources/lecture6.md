@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on the weak definition of a harmonic
   function and generalizations of the laplacian.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/1ac3c08d20609c08ab021ef33149291f_lecture6.pdf
+file_size: 116360
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

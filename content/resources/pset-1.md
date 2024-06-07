@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 5 problems on harmonic function, laplacian coordinates,
   Green's functions, and heat equation.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/5d8902a9e31ee64fc7600c1679780480_pset.pdf
+file_size: 55257
 file_type: application/pdf
 learning_resource_types:
 - Assignments
