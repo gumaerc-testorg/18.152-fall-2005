@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the decay of solutions of the heat equation, campanato?s
   lemma and morrey?s lemma.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/ef765e5dbe2fbdfaff7dc82cc0042ecb_lecture15.pdf
+file_size: 150418
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

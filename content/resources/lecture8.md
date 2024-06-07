@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information on the maximum principle for more general
   operators.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/f3e4f78f8f79ca9b83e827836f8452ca_lecture8.pdf
+file_size: 173233
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

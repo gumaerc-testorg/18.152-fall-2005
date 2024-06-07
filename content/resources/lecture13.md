@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information on heat equation gradinet estimate on
   a ball.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/f421aa725ae067082a887713ccdbcb1e_lecture13.pdf
+file_size: 68288
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

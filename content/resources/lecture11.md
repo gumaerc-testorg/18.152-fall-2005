@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives information about the laplacian in polar coordinates.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/35779eee273cd534452c6dfea58e2d92_lecture11.pdf
+file_size: 88015
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
