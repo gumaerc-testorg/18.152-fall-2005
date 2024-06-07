@@ -2,6 +2,7 @@
 content_type: resource
 description: Image of a mathematical equation.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/b66efd31c1ee495cafb1e248479ac124_eq3.jpg
+file_size: 3179
 file_type: image/jpeg
 image_metadata:
   caption: ''

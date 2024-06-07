@@ -3,6 +3,7 @@ content_type: resource
 description: This resource gives information on gradient estimate for a torus and
   a harnack inequality for a torus.
 file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/297e8fb5555f70fa8b1f234710d70c7f_lecture12.pdf
+file_size: 131778
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
