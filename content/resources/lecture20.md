@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on holder continuity of harmonic functions.
-file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/62ad04d459aca6db180c39f51115ec3b_Lecture20.pdf
+file: /ol-ocw-studio-app/courses/18-152-introduction-to-partial-differential-equations-fall-2005/62ad04d459aca6db180c39f51115ec3b_Lecture20.pdf
 file_size: 173483
 file_type: application/pdf
 learning_resource_types:
