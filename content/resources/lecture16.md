@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains bounding integrals of harmonic functions.
-file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/15b1693ca9db58b1cb197b860a2ffb48_lecture16.pdf
+file: /ol-ocw-studio-app/courses/18-152-introduction-to-partial-differential-equations-fall-2005/15b1693ca9db58b1cb197b860a2ffb48_lecture16.pdf
 file_size: 129088
 file_type: application/pdf
 learning_resource_types:

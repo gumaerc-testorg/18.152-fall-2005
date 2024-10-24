@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on the new gradient estimate.
-file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/bf4f9c18c1a490df6e81876dd82b53de_lecture10.pdf
+file: /ol-ocw-studio-app/courses/18-152-introduction-to-partial-differential-equations-fall-2005/bf4f9c18c1a490df6e81876dd82b53de_lecture10.pdf
 file_size: 128657
 file_type: application/pdf
 learning_resource_types:
