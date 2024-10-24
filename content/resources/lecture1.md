@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on the laplacian, the maximum principle,
   dirichlet energy, the mean value property and harnack inequality.
-file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/7fbca0b83afcfc989cfb3e2626053076_lecture1.pdf
+file: /ol-ocw-studio-app/courses/18-152-introduction-to-partial-differential-equations-fall-2005/7fbca0b83afcfc989cfb3e2626053076_lecture1.pdf
 file_size: 136710
 file_type: application/pdf
 learning_resource_types:
