@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource gives information on the dirichlet-poincare inequality
   and the nueman-poincare inequality.
-file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/eb581f1f6d82b83f4562d98e2a3d7744_lecture4.pdf
+file: /ol-ocw-studio-app/courses/18-152-introduction-to-partial-differential-equations-fall-2005/eb581f1f6d82b83f4562d98e2a3d7744_lecture4.pdf
 file_size: 102671
 file_type: application/pdf
 learning_resource_types:

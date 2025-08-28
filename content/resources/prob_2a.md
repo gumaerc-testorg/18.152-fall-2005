@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/4e04b08496e53058c6c41a06546c87fb_prob_2a.jpg
+file: /ol-ocw-studio-app/courses/18-152-introduction-to-partial-differential-equations-fall-2005/4e04b08496e53058c6c41a06546c87fb_prob_2a.jpg
 file_size: 10443
 file_type: image/jpeg
 image_metadata:
