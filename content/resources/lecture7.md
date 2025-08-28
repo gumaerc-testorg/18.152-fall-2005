@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on consequences of cacciopolli.
-file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/79ecd1182813fe151747970f24a9b263_lecture7.pdf
+file: /ol-ocw-studio-app/courses/18-152-introduction-to-partial-differential-equations-fall-2005/79ecd1182813fe151747970f24a9b263_lecture7.pdf
 file_size: 130379
 file_type: application/pdf
 learning_resource_types:
