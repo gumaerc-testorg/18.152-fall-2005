@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains theorem based on the hopf maximum principle.
-file: /courses/18-152-introduction-to-partial-differential-equations-fall-2005/f6d2be28e0561f17d6e348398f2d0914_lecture3.pdf
+file: /ol-ocw-studio-app/courses/18-152-introduction-to-partial-differential-equations-fall-2005/f6d2be28e0561f17d6e348398f2d0914_lecture3.pdf
 file_size: 106999
 file_type: application/pdf
 learning_resource_types:
